@@ -12,14 +12,14 @@ It uses four commands:
 <pre>This command use to add a note into a database i.e notes.json file
 
  Command used in terminal for adding note is: 
-    node app.js add --title="title_name" --body="body" </pre>
+    node app.js add --title="<i>_title_name_</i>" --body="<i>_body_</i>" </pre>
  
 
 <h3> Remove Command </h3>
 <pre>This command use to remove a note from a database i.e notes.json file
 
  Command used in terminal for adding note is: 
-    node app.js remove --title="<i>title_name</i>" </pre>
+    node app.js remove --title="<i>_title_name_</i>" </pre>
     
 <h3> List Command </h3>
 <pre>This command use to List all note from a database
@@ -31,4 +31,4 @@ It uses four commands:
 <pre>This command use to Read a note from a database
 
  Command used in terminal for adding note is: 
-    node app.js read --title="title_name" </pre>
+    node app.js read --title="<i>_title_name_</i>" </pre>
