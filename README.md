@@ -8,9 +8,9 @@ It uses four commands:
   <li>Read</li>
 </ul>
 
-<h2> Add Command </h2>
-- This command use to add a note into a database i.e notes.json file 
-  Command used in terminal for adding note is:
-    node app.js add --title="<i>title_name</i>" --body="<i>body</i>"
+<h3> Add Command </h3>
+<pre>- This command use to add a note into a database i.e notes.json file 
+  Command used in terminal for adding note is: 
+    node app.js add --title="<i>title_name</i>" --body="<i>body</i>" </pre>
  
- # Remove Command
+
