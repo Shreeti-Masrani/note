@@ -21,13 +21,13 @@ It uses four commands:
  Command used in terminal for adding note is: 
     node app.js remove --title="<i>title_name</i>" </pre>
     
-    <h3> List Command </h3>
+<h3> List Command </h3>
 <pre>This command use to List all note from a database
 
  Command used in terminal for adding note is: 
     node app.js list </pre>
     
-    <h3> Read Command </h3>
+<h3> Read Command </h3>
 <pre>This command use to Read a note from a database
 
  Command used in terminal for adding note is: 
